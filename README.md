@@ -1,8 +1,7 @@
-[![MasterHead]([https://www.shutterstock.com/video/search/coding-wallpaper)](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+
 <h1 align="center">Hi 👋, I'm shanu patidar</h1>
 <h3 align="center">A passionate frontend developer who loves crafting visually appealing and user-friendly web interfaces. With a strong foundation in HTML, CSS, JavaScript, and React, I strive to create websites and applications that are not only functional but also engaging.I enjoy solving complex problems, learning new technologies, and continuously improving my skills. My journey in frontend development is driven by curiosity and a desire to build products that make a difference. Whether it's through clean code, responsive design, or seamless user experiences, I aim to bring ideas to life on the web.
 </h3>
-<img align="right" alt="coding" width="400" src="(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-shanu&label=Profile%20views&color=0e75b6&style=flat" alt="coder-shanu" /> </p>
 
